@@ -1,0 +1,31 @@
+{
+  "name": "2022-01-typescript-presentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickjmorrow/2022-01-typescript-presentation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickjmorrow/2022-01-typescript-presentation/issues"
+  },
+  "homepage": "https://github.com/nickjmorrow/2022-01-typescript-presentation#readme",
+  "devDependencies": {
+    "@types/lodash": "^4.14.177",
+    "@types/react": "^17.0.38",
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
